@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "category": "psikolog"
+
+        },
+        {
+            "id": 2,
+            "category": "psikiater"
+
+        },
+        {
+            "id": 3,
+            "category": "dokter umum"
+
+        },
+        {
+            "id": 4,
+            "category": "psikiater anak"
+
+        }
+    ]
+}
